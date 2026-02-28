@@ -1,16 +1,15 @@
-Var
-    base : real
-    altura : real
-    area : real
+    real base
+    real altura
+    real area
 
 Inicio
-    Escriba "Ingrese la base del triángulo: "
+    Escriba "Ingrese la base del triÃ¡ngulo: "
     Lea base
 
-    Escriba "Ingrese la altura del triángulo: "
+    Escriba "Ingrese la altura del triÃ¡ngulo: "
     Lea altura
 
     area <- (base * altura) / 2
 
-    Escriba "El área del triángulo es: ", area
+    Escriba "El Ã¡rea del triÃ¡ngulo es: ", area
 Fin
